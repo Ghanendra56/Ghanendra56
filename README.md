@@ -38,7 +38,8 @@ limitations under the License.
 
 ## :bust_in_silhouette: About Me
 &nbsp;
-Heyo 👋 myself Ghanendra {SyntaxError The Dev.} aka “The Anonymous Developer” from India. I am a student and software developer, passionate about (actually I don't know). Enjoy building things, especially those which help or entertain others to bring happiness in others’ life and discover new kinds of stuff to learn. I spent my free time programming, listening to songs, making code more efficient or user friendly 👨‍💻
+Hello 👋 myself Ghanendra {SyntaxError The Dev.} aka “The Anonymous Developer” from India. I am a student and software developer, passionate about (actually I don't know). 
+
 
 ## ⚒️ Programming Languages and Tools
 &nbsp;
