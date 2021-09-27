@@ -25,7 +25,7 @@ limitations under the License.
         <img src="https://pngimg.com/uploads/safari/safari_PNG33.png" width="50px" />
     </a>
     &nbsp;
-    <a href="https://github.com/Ghanendra56/Ghanendra56">
+    <a href="https://github.com/Ghanendra56/">
         <img src="https://iconsplace.com/wp-content/uploads/_icons/ffc0cb/256/png/github-icon-12-256.png" width="20px" />
     </a>
     &nbsp;
