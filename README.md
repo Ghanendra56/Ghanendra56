@@ -17,7 +17,7 @@ limitations under the License.
 
 <p align="center">
     <a href="https://syntaxerrorthedev.godaddysites.com/">
-        <img src="https://photos.app.goo.gl/FKLPmv6Dzj42s8dg8" />
+        <img src="https://imgur.com/Z1wfO28" />
     </a>
 </p>
 <p align="center">
