@@ -52,7 +52,7 @@ Hello 👋 myself Ghanendra {SyntaxError The Dev.} aka “The Anonymous Develope
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" alt="nodejs" width="70" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" alt="mongo DB" width="95" height="35"/> </a>
 
-## 🔖 My Statistics
+## 🧑‍💻 My Statistics
 &nbsp;
 <p align="center">
     <a href="https://github.com/Ghanendra56">
@@ -64,16 +64,19 @@ Hello 👋 myself Ghanendra {SyntaxError The Dev.} aka “The Anonymous Develope
     <a href="https://github.com/Ghanendar56/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Ghanendra56&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats" />
     </a>
-    <a href="https://open.spotify.com/user/zrei8evwinfjy9d27fjon68hh?si=eed83da070104091">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem" width="500px"/>
-    </a>
-    </p>
+   
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=k88o0ibhx16kcie9u7z94auu9)<br>
 
 ![](https://komarev.com/ghpvc/?username=Ghanendra56&style=flat-square)
-![status](https://dev.discordprofiles.me/badge/status/780327720214069308?style=flat-square)
-![playing](https://dev.discordprofiles.me/badge/playing/780327720214069308?style=flat-square)
+
+
 ![vscode](https://dev.discordprofiles.me/badge/vscode/780327720214069308?style=flat-square)
-![intellij](https://dev.discordprofiles.me/badge/intellij/594853883742912512?style=flat-square)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/780327720214069308?style=flat-square)](https://dev.discordprofiles.me/openspotify/780327720214069308?style=flat-square)
+![intellij](https://dev.discordprofiles.me/badge/intellij/594853883742912512?style=flat-square)<br>
+
+### 📬 Contact Me: <br>
+<img align="middle" src="https://discord.c99.nl/widget/theme-1/780327720214069308.png">
+
+
     
 </div>
