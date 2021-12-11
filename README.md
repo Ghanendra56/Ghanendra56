@@ -1,4 +1,4 @@
-<!--Copyright 2021 Ghanendra aka SyntaxError The Dev. <https://syntaxerrorthedev.godaddysites.com/>
+<!--Copyright 2021 Ghanendra aka SyntaxError The Dev. <https://bit.ly/Web_Syntax>
 
 Licensed under the Apache License, Version 2.0(the "License");
 you may not use this file except in compliance with the License.
@@ -16,12 +16,12 @@ limitations under the License.
 <div align = "center">
 
 <p align="center">
-    <a href="https://syntaxerrorthedev.godaddysites.com/">
-        <img src="https://i.imgur.com/Z1wfO28.jpg" />
+    <a href="https://bit.ly/Web_Syntax">
+        <img src="https://i.postimg.cc/qvKtpV9p/Syntax-Error-The-Dev.gif" />
     </a>
 </p>
 <p align="center">
-    <a href="https://syntaxerrorthedev.godaddysites.com/">
+    <a href="https://bit.ly/Web_Syntax">
         <img src="https://pngimg.com/uploads/safari/safari_PNG33.png" width="50px" />
     </a>
     &nbsp;
@@ -68,11 +68,6 @@ Hello 👋 myself Ghanendra {SyntaxError The Dev.} aka “The Anonymous Develope
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=k88o0ibhx16kcie9u7z94auu9)<br>
 
-![](https://komarev.com/ghpvc/?username=Ghanendra56&style=flat-square)
-
-
-![vscode](https://dev.discordprofiles.me/badge/vscode/780327720214069308?style=flat-square)
-![intellij](https://dev.discordprofiles.me/badge/intellij/594853883742912512?style=flat-square)<br>
 
 ### 📬 Contact Me: <br>
 <img align="middle" src="https://discord.c99.nl/widget/theme-1/780327720214069308.png">
