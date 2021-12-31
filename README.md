@@ -17,7 +17,7 @@ limitations under the License.
 
 <p align="center">
     <a href="https://bit.ly/Web_Syntax">
-        <img src="https://i.postimg.cc/qvKtpV9p/Syntax-Error-The-Dev.gif" />
+        <img src="https://i.postimg.cc/HnJwrVV0/Yellow-Red-Tan-Playful-Celebratory-Traditional-Graduation-Banner.png" />
     </a>
 </p>
 <p align="center">
