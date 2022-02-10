@@ -6,7 +6,7 @@
   &nbsp;
 <h2> Hey there, Myself <strong>SyntaxError The Dev</h2>
 
-    Hi, I'm Ghanendar aka SyntaxError, a self taught developer passionate about making websites for fun, from Bulandshahr, India.
+    Hi, I'm Ghanendar aka SyntaxError, a self taught developer passionate about making websites for fun, from India.
     
 &nbsp;
 <hr>
