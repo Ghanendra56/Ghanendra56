@@ -29,7 +29,7 @@
 <div align="center">
 <strong><i> Thanks for readig
 
-[My GitHub](https://github.com/Ghanendra56) | [Email me at](SyntaxError@syntaxcodes.onmicrosoft.com) | [My Website](https://bit.ly/Web_Syntax)
+[My GitHub](https://github.com/Ghanendra56) | [Email me at](mailto:SyntaxError@syntaxcodes.onmicrosoft.com) | [My Website](https://bit.ly/Web_Syntax)
 </i></strong> 
 
 <strong><i>💜
