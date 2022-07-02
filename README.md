@@ -24,6 +24,7 @@
 
 &nbsp;<hr>
   <img align="middle" src="https://discord.c99.nl/widget/theme-4/780327720214069308.png">
+  <img align-"middle src="https://discordapp.com/api/guilds/950734695346348113/widget.png?style=banner2"
       <hr>
       &nbsp;
 <div align="center">
