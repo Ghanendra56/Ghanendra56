@@ -1,7 +1,4 @@
 <div align="center">
-<a href="https://github.com/Ghanendra56">
-  <img src="https://avatars.githubusercontent.com/u/77883076?v=4">
-  </a>
   
   &nbsp;
 <h2> Hey there, Myself <strong>SyntaxError The Dev</h2>
